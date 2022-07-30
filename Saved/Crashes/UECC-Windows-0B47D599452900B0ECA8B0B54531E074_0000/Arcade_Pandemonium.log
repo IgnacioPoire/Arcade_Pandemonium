@@ -1,0 +1,1717 @@
+﻿Log file open, 07/16/22 02:07:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=8752)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Arcade_Pandemonium
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\ImageCampus\Game\Project\Arcade_Pandemonium\Arcade_Pandemonium.uproject -EpicPortal -epicusername=P4R_Z1V4L -epicuserid=2cd8e3cab1444bf3a109c336a993cd14 -epiclocale=es -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H1) [10.0.19043.1826] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="aeb1b68742a2149e49b49bb3f390e172"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.234447
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-0B47D599452900B0ECA8B0B54531E074
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H1) [10.0.19043.1826] (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=P4R_Z1V4L -epicuserid=2cd8e3cab1444bf3a109c336a993cd14 -epiclocale=es -epicsandboxid=ue
+LogInit: Base Directory: D:/Epic Games/Unreal Engine/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.07.16-05.07.36:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.07.16-05.07.36:918][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.07.16-05.07.36:918][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.07.16-05.07.36:918][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.07.16-05.07.37:018][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.07.16-05.07.37:018][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.07.16-05.07.37:019][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.07.16-05.07.37:019][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.07.16-05.07.37:021][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.07.16-05.07.37:104][  0]LogD3D12RHI: Aftermath initialized
+[2022.07.16-05.07.37:104][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.07.16-05.07.37:688][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.07.16-05.07.37:688][  0]LogD3D12RHI: Adapter has 10078MB of dedicated video memory, 0MB of dedicated system memory, and 16344MB of shared system memory, 1 output[s]
+[2022.07.16-05.07.37:693][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.07.16-05.07.37:693][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16344MB of shared system memory, 0 output[s]
+[2022.07.16-05.07.37:693][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.07.16-05.07.37:693][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.16-05.07.37:693][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.07.16-05.07.37:693][  0]LogHAL: Display: Platform has ~ 32 GB [34276048896 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.16-05.07.37:693][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.07.16-05.07.37:693][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.07.16-05.07.37:693][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.16-05.07.37:693][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.07.16-05.07.37:693][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Config/WindowsEditor/Editor.ini]
+[2022.07.16-05.07.37:693][  0]LogInit: Computer: DESKTOP-QRACPRU
+[2022.07.16-05.07.37:694][  0]LogInit: User: Equipo
+[2022.07.16-05.07.37:694][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.16-05.07.37:694][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.16-05.07.37:694][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.07.16-05.07.37:694][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.07.16-05.07.37:694][  0]LogMemory: Process Physical Memory: 280.14 MB used, 294.87 MB peak
+[2022.07.16-05.07.37:694][  0]LogMemory: Process Virtual Memory: 245.87 MB used, 245.87 MB peak
+[2022.07.16-05.07.37:694][  0]LogMemory: Physical Memory: 11713.23 MB used,  20974.96 MB free, 32688.19 MB total
+[2022.07.16-05.07.37:694][  0]LogMemory: Virtual Memory: 17926.49 MB used,  19625.70 MB free, 37552.19 MB total
+[2022.07.16-05.07.37:694][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.07.16-05.07.37:698][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.16-05.07.37:709][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.07.16-05.07.37:710][  0]LogInit: Using OS detected language (es-ES).
+[2022.07.16-05.07.37:710][  0]LogInit: Using OS detected locale (es-ES).
+[2022.07.16-05.07.37:711][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so 'es' will be used for the language.
+[2022.07.16-05.07.37:729][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem:   - Inglés (Estados Unidos) - (Keyboard).
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem:   - Español (Argentina) - (Keyboard).
+[2022.07.16-05.07.37:737][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2022.07.16-05.07.37:746][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.16-05.07.37:747][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.16-05.07.37:879][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.07.16-05.07.37:923][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.07.16-05.07.37:923][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.07.16-05.07.38:018][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.07.16-05.07.38:019][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.07.16-05.07.38:102][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.07.16-05.07.38:108][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.07.16-05.07.38:118][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.07.16-05.07.38:202][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.07.16-05.07.38:202][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.07.16-05.07.38:230][  0]LogD3D12RHI:     GPU DeviceId: 0x2206 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.16-05.07.38:230][  0]LogWindows: Attached monitors:
+[2022.07.16-05.07.38:230][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.07.16-05.07.38:230][  0]LogWindows: Found 1 attached monitors.
+[2022.07.16-05.07.38:230][  0]LogWindows: EnumDisplayDevices:
+[2022.07.16-05.07.38:230][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.07.16-05.07.38:230][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.07.16-05.07.38:231][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.07.16-05.07.38:231][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.07.16-05.07.38:231][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.07.16-05.07.38:231][  0]LogRHI: Texture pool is 5865 MB (70% of 8379 MB)
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: Async texture creation enabled
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: HDR output is supported on adapter 0, display 0:
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: 		MinLuminance = 0.060300
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: 		MaxLuminance = 436.208008
+[2022.07.16-05.07.38:231][  0]LogD3D12RHI: 		MaxFullFrameLuminance = 436.208008
+[2022.07.16-05.07.38:337][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.07.16-05.07.38:342][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Arcade_Pandemonium.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/TurnkeyReport_0.log" -log="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/TurnkeyLog_0.log" -project="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Arcade_Pandemonium.uproject"  -platform=all'
+[2022.07.16-05.07.38:342][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Epic Games/Unreal Engine/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Arcade_Pandemonium.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/TurnkeyReport_0.log" -log="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/TurnkeyLog_0.log" -project="D:/ImageCampus/Game/Project/Arcade_Pandemonium/Arcade_Pandemonium.uproject"  -platform=all" ]
+[2022.07.16-05.07.38:358][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.07.16-05.07.38:364][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.07.16-05.07.38:364][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.16-05.07.38:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.16-05.07.38:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.07.16-05.07.38:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.07.16-05.07.38:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.16-05.07.38:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.16-05.07.38:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.16-05.07.38:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.07.16-05.07.38:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.16-05.07.38:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.16-05.07.38:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.07.16-05.07.38:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.07.16-05.07.38:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.07.16-05.07.38:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.16-05.07.38:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.16-05.07.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.16-05.07.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.07.16-05.07.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.16-05.07.38:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.16-05.07.38:396][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.07.16-05.07.38:401][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.16-05.07.38:403][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.07.16-05.07.38:403][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.07.16-05.07.38:403][  0]LogTargetPlatformManager:   ADPCM
+[2022.07.16-05.07.38:403][  0]LogTargetPlatformManager:   PCM
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager:   BINKA
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager:   OGG
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.07.16-05.07.38:405][  0]LogTargetPlatformManager:   OPUS
+[2022.07.16-05.07.38:437][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.07.16-05.07.38:437][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.07.16-05.07.38:441][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.07.16-05.07.38:443][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.07.16-05.07.38:443][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.16-05.07.38:444][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:444][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:444][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:444][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:445][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:445][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.07.16-05.07.38:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.16-05.07.38:447][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.07.16-05.07.38:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.16-05.07.38:447][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.07.16-05.07.38:464][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.07.16-05.07.38:464][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.16-05.07.38:464][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.07.16-05.07.38:468][  0]LogDerivedDataCache: Speed tests for C:/Users/Equipo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.07.16-05.07.38:468][  0]LogDerivedDataCache: Display: Performance to C:/Users/Equipo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1636.77MBs, RandomWriteSpeed=274.25MBs. Assigned SpeedClass 'Local'
+[2022.07.16-05.07.38:469][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Equipo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.16-05.07.38:469][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.16-05.07.38:469][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.07.16-05.07.38:473][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.07.16-05.07.38:473][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.07.16-05.07.38:474][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Intermediate/Shaders/WorkingDirectory/15440/).
+[2022.07.16-05.07.38:474][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Equipo/AppData/Local/Temp/UnrealShaderWorkingDir/F2A3295149C8B117E0211CB65F1B891A/'.
+[2022.07.16-05.07.38:474][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.16-05.07.38:474][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.07.16-05.07.39:622][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.16-05.07.39:622][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.16-05.07.39:653][  0]LogAssetRegistry: FAssetRegistry took 0.0090 seconds to start up
+[2022.07.16-05.07.39:658][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.07.16-05.07.39:826][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.07.16-05.07.39:827][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.07.16-05.07.40:003][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.07.16-05.07.40:004][  0]LogDeviceProfileManager: Active device profile: [0000057E54CAE700][0000057E49CC2800 50] WindowsEditor
+[2022.07.16-05.07.40:004][  0]LogDeviceProfileManager: Profiles: [0000057E54CAE1C0][0000057E31725000 50] Windows, [0000057E54CAE700][0000057E49CC2800 50] WindowsEditor, [0000057E54CACCC0][0000057E49C5A000 50] WindowsServer, [0000057E54CAA640][0000057E551A0000 50] WindowsClient, [0000057E54CAB7C0][0000057E551A5000 50] IOS, [0000057E54CADC80][0000057E551A7800 50] iPadAir2, [0000057E54CADAC0][0000057E551AC800 50] IPadPro, [0000057E54CAD900][0000057E551AA000 50] iPadAir3, [0000057E54CAE8C0][0000057E47A22800 50] iPadAir4, [0000057E54CAD200][0000057E551B0000 50] iPadMini4, [0000057E54CAB280][0000057E551B5000 50] iPadMini5, [0000057E54CABEC0][0000057E551B7800 50] iPadMini6, [0000057E55221A40][0000057E551A2800 50] iPhone6S, [0000057E55221DC0][0000057E551BC800 50] iPhone7, [0000057E552216C0][0000057E551BA000 50] iPodTouch7, [0000057E55222840][0000057E551C0000 50] iPhone6SPlus, [0000057E55222680][0000057E551C5000 50] iPhone7Plus, [0000057E552224C0][0000057E551C7800 50] iPhoneSE, [0000057E55222300][0000057E551CA000 50] iPhone8, [0000057E55220380][0000057E551CC800 50] iPhone8Plus, [0000057E552208C0][0000057E551B2800 50] iPhoneX, [0000057E55222D80][0000057E551D0000 50] iPhoneXS, [0000057E55220A80][0000057E551D5000 50] iPhoneXSMax, [0000057E55221C00][0000057E551D7800 50] iPhoneXR, [0000057E552232C0][0000057E551DA000 50] iPhone11, [0000057E55222BC0][0000057E551DC800 50] iPhone11Pro, [0000057E55220FC0][0000057E551C2800 50] iPhone11ProMax, [0000057E55223640][0000057E551F0000 50] iPhoneSE2, [0000057E55220C40][0000057E551F5000 50] iPhone12Mini, [0000057E55222F40][0000057E551F7800 50] iPhone12, [0000057E55223800][0000057E551FA000 50] iPhone12Pro, [0000057E55221880][0000057E551FC800 50] iPhone12ProMax, [0000057E55223100][0000057E551D2800 50] iPhone13Mini, [0000057E55220E00][0000057E55200000 50] iPhone13, [0000057E55222A00][0000057E55205000 50] iPhone13Pro, [0000057E55220540][0000057E55207800 50] iPhone13ProMax, [0000057E55220000][0000057E5520A000 50] iPadPro105, [0000057E55223D40][0000057E5520C800 50] iPadPro129, [0000057E55223F00][0000057E551F2800 50] iPadPro97, [0000057E55224980][0000057E55210000 50] iPadPro2_129, [0000057E552239C0][0000057E55215000 50] iPad5, [0000057E55223480][0000057E55217800 50] iPad6, [0000057E55222140][0000057E5521A000 50] iPad7, [0000057E552247C0][0000057E5521C800 50] iPad8, [0000057E55223B80][0000057E55202800 50] iPad9, [0000057E55221F80][0000057E55230000 50] iPadPro11, [0000057E552201C0][0000057E55235000 50] iPadPro2_11, [0000057E55224EC0][0000057E55237800 50] iPadPro3_11, [0000057E55224B40][0000057E5523A000 50] iPadPro3_129, [0000057E55224600][0000057E5523C800 50] iPadPro4_129, [0000057E55220700][0000057E55212800 50] iPadPro5_129, [0000057E55225940][0000057E55240000 50] AppleTV, [0000057E55221340][0000057E55245000 50] AppleTV4K, [0000057E55226200][0000057E55247800 50] TVOS, [0000057E55229140][0000057E5524C800 50] Mac, [0000057E552294C0][0000057E5524A000 50] MacEditor, [0000057E55227000][0000057E55232800 50] MacClient, [0000057E55226040][0000057E55250000 50] MacServer, [0000057E55225400][0000057E55257800 50] Linux, [0000057E552255C0][0000057E55255000 50] LinuxEditor, [0000057E552286C0][0000057E5525A000 50] LinuxArm64Editor, [0000057E55229680][0000057E5525C800 50] LinuxArm64, [0000057E55228340][0000057E55242800 50] LinuxClient, [0000057E55228180][0000057E55260000 50] LinuxArm64Client, [0000057E55224440][0000057E55265000 50] LinuxServer, [0000057E55227C40][0000057E55267800 50] LinuxArm64Server, [0000057E55225780][0000057E5526A000 50] Android, [0000057E55225E80][0000057E5526C800 50] Android_Preview_OpenGL, [0000057E55229840][0000057E55252800 50] Android_Preview_Vulkan, [0000057E55228880][0000057E55270000 50] Android_Low, [0000057E55229A00][0000057E55275000 50] Android_Mid, [0000057E55226580][0000057E55277800 50] Android_High, [0000057E55225B00][0000057E5527A000 50] Android_Default, [0000057E55226740][0000057E5527C800 50] Android_Adreno4xx, [0000057E55229BC0][0000057E55262800 50] Android_Adreno5xx_Low, [0000057E55225CC0][0000057E55280000 50] Android_Adreno5xx, [0000057E55225080][0000057E55285000 50] Android_Adreno6xx, [0000057E552263C0][0000057E55287800 50] Android_Adreno6xx_Vulkan, [0000057E55227A80][0000057E5528A000 50] Android_Adreno7xx, [0000057E552278C0][0000057E5528C800 50] Android_Adreno7xx_Vulkan, [0000057E55227FC0][0000057E55272800 50] Android_Mali_T6xx, [0000057E55226C80][0000057E55290000 50] Android_Mali_T7xx, [0000057E55224D00][0000057E55295000 50] Android_Mali_T8xx, [0000057E55227700][0000057E55297800 50] Android_Mali_G71, [0000057E55226900][0000057E5529A000 50] Android_Mali_G72, [0000057E55221500][0000057E5529C800 50] Android_Mali_G72_Vulkan, [0000057E55225240][0000057E55282800 50] Android_Mali_G76, [0000057E55229300][0000057E552A0000 50] Android_Mali_G76_Vulkan, [0000057E55226E40][0000057E552A5000 50] Android_Mali_G77, [0000057E55221180][0000057E552A7800 50] Android_Mali_G77_Vulkan, [0000057E5522A480][0000057E552AA000 50] Android_Mali_G78, [0000057E55224280][0000057E552AC800 50] Android_Mali_G78_Vulkan, [0000057E5522A800][0000057E55292800 50] Android_Mali_G710, [0000057E5522A9C0][0000057E552B0000 50] Android_Mali_G710_Vulkan, [0000057E55229F40][0000057E552B5000 50] Android_Xclipse_920, [0000057E55227540][0000057E552B7800 50] Android_Xclipse_920_Vulkan, [0000057E55228500][0000057E552BA000 50] Android_Vulkan_SM5, [0000057E552240C0][0000057E552BC800 50] Android_PowerVR_G6xxx, [0000057E552271C0][0000057E552A2800 50] Android_PowerVR_GT7xxx, [0000057E5522B440][0000057E552C0000 50] Android_PowerVR_GE8xxx, [0000057E55226AC0][0000057E552C5000 50] Android_PowerVR_GM9xxx, [0000057E5522B980][0000057E552C7800 50] Android_PowerVR_GM9xxx_Vulkan, [0000057E55228DC0][0000057E552CA000 50] Android_TegraK1, [0000057E55228F80][0000057E552CC800 50] Android_Unknown_Vulkan, [0000057E5522B600][0000057E552B2800 50] Oculus_Quest, [0000057E55227E00][0000057E552D0000 50] Oculus_Quest2, [0000057E55227380][0000057E552D5000 50] HoloLens, 
+[2022.07.16-05.07.40:004][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.07.16-05.07.40:021][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.07.16-05.07.40:171][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.16-05.07.40:171][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.16-05.07.40:171][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.16-05.07.40:171][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.16-05.07.40:171][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.16-05.07.40:183][  0]LogNetVersion: Arcade_Pandemonium 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2098276423)
+[2022.07.16-05.07.40:285][  0]LogSlate: Border
+[2022.07.16-05.07.40:285][  0]LogSlate: BreadcrumbButton
+[2022.07.16-05.07.40:285][  0]LogSlate: Default
+[2022.07.16-05.07.40:285][  0]LogSlate: Icons.Save
+[2022.07.16-05.07.40:285][  0]LogSlate: Icons.Toolbar.Settings
+[2022.07.16-05.07.40:285][  0]LogSlate: ListView
+[2022.07.16-05.07.40:285][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.07.16-05.07.40:285][  0]LogSlate: SoftwareCursor_Grab
+[2022.07.16-05.07.40:285][  0]LogSlate: TableView.DarkRow
+[2022.07.16-05.07.40:285][  0]LogSlate: TableView.Row
+[2022.07.16-05.07.40:285][  0]LogSlate: TreeView
+[2022.07.16-05.07.40:586][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.40:618][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.40:618][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.40:715][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.07.16-05.07.40:715][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.07.16-05.07.40:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.16-05.07.40:985][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: BE9B66C34F720E3FB78E06A862DAA2C9 | Instance: ACD2FC4241E7D2841E1CA9A9DACF2F2A (DESKTOP-QRACPRU-15440).
+[2022.07.16-05.07.41:013][  0]LogPython: Using Python 3.9.7
+[2022.07.16-05.07.41:692][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.16-05.07.41:708][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.16-05.07.41:784][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.41:805][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.41:809][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.41:818][  0]LogUProjectInfo: Found projects:
+[2022.07.16-05.07.41:821][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.41:821][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.41:821][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.42:627][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.16-05.07.42:665][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.16-05.07.42:683][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.16-05.07.42:683][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.16-05.07.42:779][  0]LogCollectionManager: Loaded 0 collections in 0.000547 seconds
+[2022.07.16-05.07.42:843][  0]LogFileCache: Scanning file cache for directory 'D:/ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Collections/' took 0.00s
+[2022.07.16-05.07.42:843][  0]LogFileCache: Scanning file cache for directory 'D:/ImageCampus/Game/Project/Arcade_Pandemonium/Content/Developers/Equipo/Collections/' took 0.00s
+[2022.07.16-05.07.42:843][  0]LogFileCache: Scanning file cache for directory 'D:/ImageCampus/Game/Project/Arcade_Pandemonium/Content/Collections/' took 0.00s
+[2022.07.16-05.07.43:136][  0]LogEngine: Initializing Engine...
+[2022.07.16-05.07.43:177][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.07.16-05.07.43:196][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.16-05.07.43:415][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.16-05.07.43:415][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.16-05.07.43:424][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.07.43:448][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.16-05.07.43:449][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.16-05.07.43:468][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.16-05.07.43:469][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.16-05.07.43:469][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.16-05.07.43:470][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.16-05.07.43:470][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.16-05.07.43:475][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.16-05.07.43:492][  0]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2022.07.16-05.07.43:492][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.16-05.07.43:494][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.16-05.07.43:494][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.16-05.07.43:494][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.07.16-05.07.43:494][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.07.16-05.07.43:495][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.16-05.07.43:495][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.07.16-05.07.43:495][  0]LogInit: FAudioDevice initialized.
+[2022.07.16-05.07.43:496][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.16-05.07.43:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.16-05.07.43:496][  0]LogInit: Texture streaming: Enabled
+[2022.07.16-05.07.43:525][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.07.16-05.07.43:532][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.16-05.07.43:582][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.07.16-05.07.43:589][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.07.16-05.07.43:589][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.07.16-05.07.52:093][  0]LogLiveCoding: Display: First instance in process group "UE_Arcade_Pandemonium_0x5a3e6e6c", spawning console
+[2022.07.16-05.07.52:094][  0]LogLiveCoding: Display: Waiting for server
+[2022.07.16-05.07.52:094][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.07.16-05.07.52:121][  0]LogInit: Transaction tracking system initialized
+[2022.07.16-05.07.52:192][  0]BlueprintLog: New page: Cargar el editor
+[2022.07.16-05.07.52:414][  0]LocalizationService: Localization service is disabled
+[2022.07.16-05.07.52:482][  0]TimingProfiler: Initialize
+[2022.07.16-05.07.52:482][  0]TimingProfiler: OnSessionChanged
+[2022.07.16-05.07.52:482][  0]LoadingProfiler: Initialize
+[2022.07.16-05.07.52:482][  0]LoadingProfiler: OnSessionChanged
+[2022.07.16-05.07.52:483][  0]NetworkingProfiler: Initialize
+[2022.07.16-05.07.52:483][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.16-05.07.52:483][  0]MemoryProfiler: Initialize
+[2022.07.16-05.07.52:483][  0]MemoryProfiler: OnSessionChanged
+[2022.07.16-05.07.52:674][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.52:675][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.52:675][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.07.16-05.07.54:048][  0]LogFileCache: Scanning file cache for directory 'D:/ImageCampus/Game/Project/Arcade_Pandemonium/Content/' took 0.00s
+[2022.07.16-05.07.54:048][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.07.16-05.07.54:125][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.16-05.07.54:128][  0]SourceControl: El control de código fuente está desactivado
+[2022.07.16-05.07.54:128][  0]LogUnrealEdMisc: Loading editor; pre map load, took 18.297
+[2022.07.16-05.07.54:128][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/OpenWorld.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.16-05.07.54:128][  0]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.07.54:135][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-05.07.54:135][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.07.54:135][  0]MapCheck: New page: Revisión del mapa
+[2022.07.16-05.07.54:135][  0]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.07.54:140][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-05.07.54:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.16-05.07.54:196][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.07.16-05.07.54:201][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.07.54:201][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2022.07.16-05.07.54:202][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.07.16-05.07.54:202][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.07.16-05.07.54:414][  0]LogWorldPartition: Display: WorldPartition initialize took 212 ms
+[2022.07.16-05.07.54:585][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.16-05.07.54:592][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.16-05.07.54:593][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.16-05.07.54:601][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9,289ms to complete.
+[2022.07.16-05.07.54:601][  0]LogFileHelpers: Loading map 'OpenWorld' took 0.474
+[2022.07.16-05.07.54:650][  0]LogUnrealEdMisc: Total Editor Startup Time, took 18.819
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: ================================================
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.07.16-05.07.54:651][  0]LogShaderCompilers: Display: ================================================
+[2022.07.16-05.07.55:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.07.55:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.07.55:713][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.07.55:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.07.57:628][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:628][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:628][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:629][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:629][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:629][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:630][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:630][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:631][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:631][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:631][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:631][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:632][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:632][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:632][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:632][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:633][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:633][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:633][  0]LogPakFile: Display: Mounted Pak file 'D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.07.16-05.07.57:634][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.07.16-05.07.57:634][  0]LogFeaturePack: Error: Error in Feature pack D:/Epic Games/Unreal Engine/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.07.16-05.07.57:989][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.16-05.07.58:352][  0]LogSlate: Took 0.058465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.16-05.07.58:425][  0]LogSlate: Took 0.043318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.16-05.07.58:516][  0]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.08.05:642][  0]LogStall: Startup...
+[2022.07.16-05.08.05:643][  0]LogStall: Startup complete.
+[2022.07.16-05.08.05:789][  0]LogLoad: (Engine Initialization) Total time: 29.96 seconds
+[2022.07.16-05.08.05:789][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.16-05.08.06:111][  0]LogAssetRegistry: Asset discovery search completed in 26.4591 seconds
+[2022.07.16-05.08.06:134][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.07.16-05.08.06:150][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.16-05.08.06:322][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.16-05.08.07:930][  1]LogMeshUtilities: Finished distance field build in 1.3s - 21x7x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 1509 triangles, MatineeCam_SM
+[2022.07.16-05.08.07:931][  1]LogMeshUtilities: Finished distance field build in 1.3s - 7x21x14 sparse distance field, 0.0Mb total, 0.0Mb always loaded, 100% occupied, 2084 triangles, SM_CineCam
+[2022.07.16-05.08.07:931][  1]LogMeshUtilities: Finished distance field build in 1.5s - 49x49x49 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 92% occupied, 4 triangles, EditorCube
+[2022.07.16-05.08.08:022][  2]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 682 triangles, PlanarReflectionPlane
+[2022.07.16-05.08.09:714][  8]LogMeshUtilities: Finished distance field build in 1.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2022.07.16-05.08.23:484][219]Cmd: POLY SELECT ADJACENT WALLS
+[2022.07.16-05.08.29:854][836]LogSlate: Took 0.015432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.16-05.08.31:637][  7]LogSlate: Took 0.009616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.16-05.08.37:455][371]LogSlate: Window 'Nivel nuevo' being destroyed
+[2022.07.16-05.08.37:496][371]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.16-05.08.37:496][371]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.08.37:496][371]LoadErrors: New page: Cargando mapa: Template_Default.umap
+[2022.07.16-05.08.37:566][371]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-05.08.37:577][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.08.37:611][371]MapCheck: New page: Revisión del mapa
+[2022.07.16-05.08.37:611][371]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.08.37:657][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-05.08.37:714][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.16-05.08.37:916][371]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2022.07.16-05.08.37:916][371]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.16-05.08.37:916][371]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.08.37:916][371]LogAIModule: Creating AISystem for world Untitled_2
+[2022.07.16-05.08.37:937][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.16-05.08.37:985][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.16-05.08.37:985][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.16-05.08.37:986][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.07.16-05.08.37:986][371]LogFileHelpers: Loading map 'Template_Default' took 0.490
+[2022.07.16-05.08.44:823][822]LogSlate: Window 'Nivel nuevo' being destroyed
+[2022.07.16-05.09.01:639][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.07.16-05.09.01:639][677]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.07.16-05.09.01:830][677]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2022.07.16-05.09.01:889][677]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_0
+[2022.07.16-05.09.38:489][470]LogDerivedDataCache: C:/Users/Equipo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.018 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-05.09.47:002][334]Cmd: TRANSACTION UNDO
+[2022.07.16-05.09.47:002][334]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.09.48:252][435]Cmd: TRANSACTION UNDO
+[2022.07.16-05.09.48:252][435]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.09.51:933][813]Cmd: TRANSACTION UNDO
+[2022.07.16-05.09.51:933][813]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.09.58:029][388]Cmd: TRANSACTION UNDO
+[2022.07.16-05.09.58:029][388]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.10.08:727][530]Cmd: EDIT COPY
+[2022.07.16-05.10.08:950][530]Cmd: EDIT PASTE
+[2022.07.16-05.12.01:896][758]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.16-05.13.30:936][949]Cmd: TRANSACTION UNDO
+[2022.07.16-05.13.30:936][949]LogEditorTransaction: Undo Atraer a los actores hasta el suelo
+[2022.07.16-05.13.42:620][141]Cmd: TRANSACTION UNDO
+[2022.07.16-05.13.42:620][141]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.13.53:677][368]Cmd: TRANSACTION UNDO
+[2022.07.16-05.13.53:677][368]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.13.54:180][390]Cmd: TRANSACTION UNDO
+[2022.07.16-05.13.54:180][390]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.14.02:260][306]Cmd: MODE GRID=0
+[2022.07.16-05.15.01:701][772]Cmd: EDIT COPY
+[2022.07.16-05.15.01:943][794]Cmd: EDIT PASTE
+[2022.07.16-05.15.02:864][894]Cmd: EDIT PASTE
+[2022.07.16-05.15.04:393][ 72]Cmd: TRANSACTION UNDO
+[2022.07.16-05.15.04:393][ 72]LogEditorTransaction: Undo Pegar
+[2022.07.16-05.15.08:272][442]Cmd: MODE GRID=1
+[2022.07.16-05.15.23:339][ 94]Cmd: MODE GRID=0
+[2022.07.16-05.15.33:709][306]Cmd: TRANSACTION UNDO
+[2022.07.16-05.15.33:709][306]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.15.34:024][316]Cmd: TRANSACTION UNDO
+[2022.07.16-05.15.34:024][316]LogEditorTransaction: Undo Set Location
+[2022.07.16-05.15.38:314][789]Cmd: MODE GRID=1
+[2022.07.16-05.17.40:540][640]Cmd: TRANSACTION UNDO
+[2022.07.16-05.17.40:540][640]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.17.54:666][231]Cmd: TRANSACTION UNDO
+[2022.07.16-05.17.54:666][231]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.18.19:415][110]Cmd: SELECT NONE
+[2022.07.16-05.18.23:585][572]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.23:585][572]LogEditorTransaction: Undo No seleccionar ninguno
+[2022.07.16-05.18.24:054][585]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.24:054][585]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.18.24:581][630]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.24:581][630]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.18.24:916][666]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.24:916][666]LogEditorTransaction: Undo Set Location
+[2022.07.16-05.18.25:257][705]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.25:257][705]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.18.34:154][714]Cmd: SELECT NONE
+[2022.07.16-05.18.40:070][390]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.40:070][390]LogEditorTransaction: Undo No seleccionar ninguno
+[2022.07.16-05.18.40:536][405]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.40:536][405]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.18.58:014][358]Cmd: TRANSACTION UNDO
+[2022.07.16-05.18.58:014][358]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.19.57:327][546]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.20.23:579][525]Cmd: TRANSACTION UNDO
+[2022.07.16-05.20.23:579][525]LogEditorTransaction: Undo Activate Tool
+[2022.07.16-05.20.40:671][465]Cmd: TRANSACTION UNDO
+[2022.07.16-05.20.40:672][465]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.21.02:979][967]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.21.06:819][362]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.21.13:105][ 48]Cmd: SELECT NONE
+[2022.07.16-05.21.13:462][ 88]Cmd: SELECT NONE
+[2022.07.16-05.21.14:799][242]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.21.18:227][629]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.24.01:612][701]Cmd: TRANSACTION UNDO
+[2022.07.16-05.24.01:612][701]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.24.07:196][258]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.24.31:798][969]Cmd: MODE GRID=0
+[2022.07.16-05.24.35:726][434]Cmd: MODE GRID=1
+[2022.07.16-05.24.40:585][997]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.24.42:886][250]Cmd: SELECT NONE
+[2022.07.16-05.25.17:084][941]Cmd: TRANSACTION UNDO
+[2022.07.16-05.25.17:084][941]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.25.27:568][ 61]Cmd: TRANSACTION UNDO
+[2022.07.16-05.25.27:568][ 61]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.25.45:648][964]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.25.46:444][ 17]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.25.56:173][ 22]Cmd: TRANSACTION UNDO
+[2022.07.16-05.25.56:173][ 22]LogEditorTransaction: Undo Cube Grid Mode Change
+[2022.07.16-05.26.03:059][774]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.03:059][774]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.08:173][319]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.08:173][319]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.12:356][756]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.12:356][756]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.12:642][769]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.12:642][769]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.26.12:945][786]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.12:945][786]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.13:273][820]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.13:273][820]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.26.13:519][845]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.13:519][845]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.13:883][883]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.13:883][883]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.26.14:291][927]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.14:292][927]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.25:437][207]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.25:437][207]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.26.48:759][591]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.48:759][591]LogEditorTransaction: Undo Cube Grid Mode Change
+[2022.07.16-05.26.49:234][605]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.49:234][605]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.26.49:886][672]Cmd: TRANSACTION UNDO
+[2022.07.16-05.26.49:886][672]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.27.26:278][689]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.27.41:966][337]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.28.20:453][566]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.28.25:306][122]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.28.29:272][579]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor
+[2022.07.16-05.28.49:721][923]Cmd: SELECT NONE
+[2022.07.16-05.28.50:151][973]Cmd: SELECT NONE
+[2022.07.16-05.28.53:258][327]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.07.16-05.28.54:595][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A4D8B0591E527BB7AC0627C7C6A73118E92C06D), compiling. 
+[2022.07.16-05.28.54:882][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 41E89715871E446ED61CDCBE917D4EF1D31F1982), compiling. 
+[2022.07.16-05.28.54:938][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E247823F3D62FB6883F0B31FA64FC8885F8D3CD9), compiling. 
+[2022.07.16-05.28.55:079][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D9137D5DC4AC56139AFC4AFFFFD8078A320EDC6), compiling. 
+[2022.07.16-05.28.55:149][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 43B45CADCF8C6C5AA6387FD6D9A517D5E4909CAC), compiling. 
+[2022.07.16-05.28.55:335][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: F57F15EC27E162F45728F47418A26CAE955E3105), compiling. 
+[2022.07.16-05.28.55:391][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: BDA2DF8D4C901C8793C450F28F1DC24429C8DB46), compiling. 
+[2022.07.16-05.28.55:531][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: A043CB9DFC8C8E97841633236986AE89D1D96B1B), compiling. 
+[2022.07.16-05.28.55:559][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FA80219A01D784DFD8BF422C2D1E76330839797), compiling. 
+[2022.07.16-05.28.55:601][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 747FE5AC3DF19D96256FE5E40E2520483C7C8160), compiling. 
+[2022.07.16-05.28.55:652][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: EB53E833A7B2A0EBA043F1BD7D5DE0FD43C01192), compiling. 
+[2022.07.16-05.28.55:695][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: ECC9BBAEA3CF23B4E9333F153A0C86D02A669C8F), compiling. 
+[2022.07.16-05.28.55:741][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E3622C758CF4C42B1A416CF820A6C0188F4BA1), compiling. 
+[2022.07.16-05.28.55:831][469]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: DB5E1AA463FA346F22DFC270AEB3207BF38CF868), compiling. 
+[2022.07.16-05.28.56:006][469]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (G8, 128X128 X1X1) (Required Memory Estimate: 0.078125 MB), EncodeSpeed: Fast
+[2022.07.16-05.28.56:686][470]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: ================================================
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: Total job queries 344, among them cache hits 0 (0.00%)
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: Shaders Compiled: 344
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: Jobs assigned 46, completed 1 (2.17%)
+[2022.07.16-05.28.59:533][727]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Time job spent in pending queue: average 0.86 s, longest 4.54 s
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Job execution time: average 4.56 s, max 4.56 s
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Job life time (pending + execution): average 4.60 s, max 4.60
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.60 s
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 5.11 jobs/batch
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Average processing rate: 0.22 jobs/sec
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 1.20 sec, max 1.20 sec, min 1.20 sec)
+[2022.07.16-05.28.59:549][727]LogShaderCompilers: Display: ================================================
+[2022.07.16-05.30.06:239][602]Cmd: SELECT NONE
+[2022.07.16-05.30.06:811][669]Cmd: SELECT NONE
+[2022.07.16-05.30.07:035][696]Cmd: SELECT NONE
+[2022.07.16-05.30.08:345][847]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.31.24:205][151]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.31.38:731][795]Cmd: TRANSACTION UNDO
+[2022.07.16-05.31.38:731][795]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.31.42:734][165]LogTemp: Warning: CANNOT MODIFY BUILT-IN ENGINE ASSET /Engine/EngineSky/SM_SkySphere.SM_SkySphere
+[2022.07.16-05.32.38:178][ 97]Cmd: TRANSACTION UNDO
+[2022.07.16-05.32.38:178][ 97]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.32.38:739][116]Cmd: TRANSACTION UNDO
+[2022.07.16-05.32.38:739][116]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.33.07:177][406]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.07:177][406]LogEditorTransaction: Undo Cube Grid Mode Change
+[2022.07.16-05.33.26:013][602]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.26:013][602]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.33.26:293][612]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.26:293][612]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.33.26:556][622]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.26:556][622]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.33.26:756][644]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.26:756][644]LogEditorTransaction: Undo Flip Selection
+[2022.07.16-05.33.27:133][687]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.27:133][687]LogEditorTransaction: Undo Flip Selection
+[2022.07.16-05.33.27:424][721]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.27:424][721]LogEditorTransaction: Undo Flip Selection
+[2022.07.16-05.33.27:751][760]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.27:751][760]LogEditorTransaction: Undo Flip Selection
+[2022.07.16-05.33.28:085][800]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.28:085][800]LogEditorTransaction: Undo Flip Selection
+[2022.07.16-05.33.28:487][848]Cmd: TRANSACTION UNDO
+[2022.07.16-05.33.28:487][848]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.34.11:705][816]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_BE1C5FCB...
+[2022.07.16-05.34.11:705][816]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/CubeGridToolOutput_BE1C5FCB) ...
+[2022.07.16-05.34.11:932][816]LogStaticMesh: Built static mesh [0.17s] /Game/Models/CubeGridToolOutput_BE1C5FCB.CubeGridToolOutput_BE1C5FCB
+[2022.07.16-05.34.11:950][816]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_BE1C5FCB...
+[2022.07.16-05.34.11:950][816]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/CubeGridToolOutput_BE1C5FCB) ...
+[2022.07.16-05.34.12:095][816]LogStaticMesh: Built static mesh [0.02s] /Game/Models/CubeGridToolOutput_BE1C5FCB.CubeGridToolOutput_BE1C5FCB
+[2022.07.16-05.34.39:317][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.07.16-05.34.39:332][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_2' took 0.077
+[2022.07.16-05.34.39:339][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/CubeGridToolOutput_BE1C5FCB] ([1] browsable assets)...
+[2022.07.16-05.34.39:378][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/CubeGridToolOutput_BE1C5FCB.CubeGridToolOutput_BE1C5FCB]
+[2022.07.16-05.34.39:378][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/CubeGridToolOutput_BE1C5FCB]
+[2022.07.16-05.34.39:456][172]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.013901 seconds
+[2022.07.16-05.34.39:522][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/CubeGridToolOutput_BE1C5FCB_Auto1
+[2022.07.16-05.34.39:522][172]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/CubeGridToolOutput_BE1C5FCB_Auto92A139E34FBAAB92D6B1E48489DBD65A.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Autosaves/Game/Models/CubeGridToolOutput_BE1C5FCB_Auto1.uasset'
+[2022.07.16-05.34.39:544][172]LogFileHelpers: Auto-saving content packages took 0.212
+[2022.07.16-05.35.56:681][839]Cmd: TRANSACTION UNDO
+[2022.07.16-05.35.56:681][839]LogEditorTransaction: Undo PolyMesh Edit
+[2022.07.16-05.35.58:973][ 38]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_BE1C5FCB...
+[2022.07.16-05.35.58:973][ 38]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_BE1C5FCB.CubeGridToolOutput_BE1C5FCB
+[2022.07.16-05.36.16:347][769]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.16:347][769]LogEditorTransaction: Undo Edge Loop Insertion
+[2022.07.16-05.36.29:065][ 46]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.29:065][ 46]LogEditorTransaction: Undo Selection
+[2022.07.16-05.36.46:435][958]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.46:435][958]LogEditorTransaction: Undo Selection
+[2022.07.16-05.36.46:939][981]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.46:939][981]LogEditorTransaction: Undo Selection
+[2022.07.16-05.36.47:290][ 17]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.47:290][ 17]LogEditorTransaction: Undo Selection
+[2022.07.16-05.36.47:618][ 49]Cmd: TRANSACTION UNDO
+[2022.07.16-05.36.47:618][ 49]LogEditorTransaction: Undo Cut Faces
+[2022.07.16-05.38.36:419][587]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_BE1C5FCB...
+[2022.07.16-05.38.36:419][587]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_BE1C5FCB.CubeGridToolOutput_BE1C5FCB
+[2022.07.16-05.38.40:570][ 59]LogViewport: Scene viewport resized to 1767x1262, mode Windowed.
+[2022.07.16-05.38.44:384][427]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.44:384][427]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:195][520]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:195][520]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:434][542]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:434][542]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:731][573]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.38.45:731][573]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.14:699][154]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.14:699][154]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.14:849][167]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.14:849][167]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.24:019][242]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_BE1C5FCB -> CubeGridToolOutput_BE1C5FCB
+[2022.07.16-05.39.25:410][366]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.25:410][366]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.39.30:477][968]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_BE1C5FCB -> SM_Arch
+[2022.07.16-05.39.31:594][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Arch" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Arch.uasset" SILENT=true
+[2022.07.16-05.39.31:596][968]LogSavePackage: Moving output files for package: /Game/Models/SM_Arch
+[2022.07.16-05.39.31:596][968]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Arch2F9C5329484986F02914289611F6B747.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Arch.uasset'
+[2022.07.16-05.39.31:658][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.16-05.39.31:666][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.07.16-05.39.31:672][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.07.16-05.39.31:689][968]AssetCheck: New page: Asset Save: SM_Arch
+[2022.07.16-05.39.31:709][968]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.39.35:126][334]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.39.40:484][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.39.40:491][905]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.39.40:491][905]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Arch.SM_Arch as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_9
+[2022.07.16-05.39.43:298][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.39.43:298][236]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.39.43:299][236]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Arch.SM_Arch as actor: StaticMeshActor /Temp/Untitled_2.Untitled_2:PersistentLevel.StaticMeshActor_10
+[2022.07.16-05.41.15:267][858]Cmd: MODE GRID=0
+[2022.07.16-05.41.57:256][691]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.57:256][691]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.41.58:194][741]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.58:194][741]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.41.58:462][769]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.58:462][769]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.41.58:758][800]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.58:758][800]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.41.59:004][825]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.59:004][825]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.41.59:263][855]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.59:263][855]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.41.59:481][877]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.59:481][877]LogEditorTransaction: Undo Set Location
+[2022.07.16-05.41.59:800][914]Cmd: TRANSACTION UNDO
+[2022.07.16-05.41.59:800][914]LogEditorTransaction: Undo Set Location
+[2022.07.16-05.42.00:480][995]Cmd: TRANSACTION UNDO
+[2022.07.16-05.42.00:480][995]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.42.02:587][246]Cmd: TRANSACTION REDO
+[2022.07.16-05.42.02:587][246]LogEditorTransaction: Redo Move Elements
+[2022.07.16-05.42.03:532][359]Cmd: TRANSACTION UNDO
+[2022.07.16-05.42.03:532][359]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.42.03:982][411]Cmd: TRANSACTION REDO
+[2022.07.16-05.42.03:982][411]LogEditorTransaction: Redo Move Elements
+[2022.07.16-05.42.04:941][524]Cmd: EDIT COPY
+[2022.07.16-05.42.05:166][551]Cmd: EDIT PASTE
+[2022.07.16-05.42.17:256][846]Cmd: TRANSACTION UNDO
+[2022.07.16-05.42.17:256][846]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.42.18:508][952]Cmd: MODE GRID=1
+[2022.07.16-05.44.25:392][834]Cmd: DELETE
+[2022.07.16-05.44.25:392][834]Cmd: ACTOR DELETE
+[2022.07.16-05.44.25:457][834]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-05.44.25:465][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.16-05.44.25:467][834]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2022.07.16-05.44.26:666][970]Cmd: EDIT COPY
+[2022.07.16-05.44.26:874][995]Cmd: EDIT PASTE
+[2022.07.16-05.45.09:500][841]Cmd: MODE GRID=0
+[2022.07.16-05.45.23:426][418]Cmd: TRANSACTION UNDO
+[2022.07.16-05.45.23:426][418]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.45.27:369][839]Cmd: TRANSACTION UNDO
+[2022.07.16-05.45.27:369][839]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.45.30:073][108]Cmd: TRANSACTION UNDO
+[2022.07.16-05.45.30:073][108]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.45.31:070][220]Cmd: MODE GRID=1
+[2022.07.16-05.45.33:399][481]Cmd: MODE GRID=0
+[2022.07.16-05.46.00:155][611]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.00:155][611]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.46.00:348][618]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.00:348][618]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.00:586][627]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.00:586][627]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.00:766][642]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.00:766][642]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.00:957][664]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.00:957][664]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.01:174][689]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.01:174][689]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.01:383][713]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.01:383][713]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.46.01:588][732]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.01:588][732]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.46.01:800][752]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.01:800][752]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.02:012][776]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.02:012][776]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.02:248][803]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.02:248][803]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.46.02:463][823]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.02:463][823]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.46.02:693][845]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.02:694][845]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.02:935][872]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.02:935][872]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.03:226][905]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.03:226][905]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.03:492][934]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.03:493][934]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.25:869][524]Cmd: TRANSACTION UNDO
+[2022.07.16-05.46.25:869][524]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.46.26:656][581]Cmd: MODE GRID=1
+[2022.07.16-05.46.37:780][901]LogEditorViewport: Clicking Background
+[2022.07.16-05.46.38:319][964]LogEditorViewport: Clicking Background
+[2022.07.16-05.46.39:873][144]LogEditorViewport: Clicking Background
+[2022.07.16-05.46.49:120][245]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.07.16-05.46.50:525][410]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.46.58:343][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.16-05.46.58:419][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.16-05.46.58:472][342]PIE: New page: Sesión PIE (reproducción en el editor): Untitled_2 (15 jul. 2022 23:46:58)
+[2022.07.16-05.46.58:487][342]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.07.16-05.46.58:518][342]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.16-05.46.58:537][342]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2022.07.16-05.46.58:577][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039858s)
+[2022.07.16-05.46.58:577][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled_2 to /Temp/UEDPIE_0_Untitled_2.Untitled_2 (0.040175s)
+[2022.07.16-05.46.58:577][342]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.16-05.46.58:587][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.46.58:588][342]LogAIModule: Creating AISystem for world Untitled_2
+[2022.07.16-05.46.58:588][342]LogPlayLevel: PIE: World Init took: (0.010939s)
+[2022.07.16-05.46.58:613][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.16-05.46.58:617][342]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.16-05.46.58:617][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.16-05.46.58:617][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.16-05.46.58:617][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.16-05.46.58:617][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.16-05.46.58:617][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.16-05.46.58:666][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.16-05.46.58:677][342]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2022.07.16-05.46.58:677][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.16-05.46.58:677][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.16-05.46.58:677][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.16-05.46.58:678][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.07.16-05.46.58:678][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.07.16-05.46.58:679][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.07.16-05.46.58:679][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.07.16-05.46.58:679][342]LogInit: FAudioDevice initialized.
+[2022.07.16-05.46.58:679][342]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_2'.
+[2022.07.16-05.46.58:714][342]LogLoad: Game class is 'GameModeBase'
+[2022.07.16-05.46.58:740][342]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled_2 up for play (max tick rate 0) at 2022.07.16-02.46.58
+[2022.07.16-05.46.58:763][342]LogWorld: Bringing up level for play took: 0.048228
+[2022.07.16-05.46.58:765][342]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2022.07.16-05.46.59:169][342]PIE: El servidor ha iniciado la sesión
+[2022.07.16-05.46.59:183][342]PIE: Play in editor total start time 0,815 seconds.
+[2022.07.16-05.47.02:478][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.47.02:478][656]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_2
+[2022.07.16-05.47.02:478][656]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-05.47.02:478][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.47.02:510][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.16-05.47.02:533][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.47.02:560][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-05.47.02:560][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.16-05.47.02:561][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.07.16-05.47.02:564][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.16-05.47.02:565][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.16-05.47.02:600][657]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.07.16-05.47.10:144][429]Cmd: DELETE
+[2022.07.16-05.47.10:144][429]Cmd: ACTOR DELETE
+[2022.07.16-05.47.10:145][429]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-05.47.10:152][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.16-05.47.10:154][429]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.07.16-05.47.10:609][466]Cmd: DELETE
+[2022.07.16-05.47.10:609][466]Cmd: ACTOR DELETE
+[2022.07.16-05.47.10:610][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-05.47.10:617][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.07.16-05.47.10:618][466]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.16-05.47.11:328][540]Cmd: DELETE
+[2022.07.16-05.47.11:328][540]Cmd: ACTOR DELETE
+[2022.07.16-05.47.11:329][540]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-05.47.11:335][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.07.16-05.47.11:336][540]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.16-05.47.13:902][841]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.47.20:545][364]LogSlate: Window 'Nivel nuevo' being destroyed
+[2022.07.16-05.47.21:615][364]LogSlate: Window 'Guardar contenido' being destroyed
+[2022.07.16-05.47.21:621][364]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.16-05.47.21:625][364]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.47.21:626][364]LoadErrors: New page: Cargando mapa: Template_Default.umap
+[2022.07.16-05.47.21:656][364]LogWorld: UWorld::CleanupWorld for Untitled_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-05.47.21:657][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.47.21:657][364]MapCheck: New page: Revisión del mapa
+[2022.07.16-05.47.21:657][364]LightingResults: New page: Diseñar la iluminación
+[2022.07.16-05.47.21:663][364]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.16-05.47.21:664][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.16-05.47.21:672][364]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_3'.
+[2022.07.16-05.47.21:672][364]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.16-05.47.21:672][364]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.47.21:673][364]LogAIModule: Creating AISystem for world Untitled_3
+[2022.07.16-05.47.21:674][364]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.16-05.47.21:680][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.16-05.47.21:680][364]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.16-05.47.21:680][364]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2022.07.16-05.47.21:680][364]LogFileHelpers: Loading map 'Template_Default' took 0.060
+[2022.07.16-05.47.21:684][364]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.47.27:161][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.16-05.47.28:136][936]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.16-05.47.28:159][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.16-05.47.28:165][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.16-05.47.28:171][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.16-05.47.33:358][544]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.48.07:703][435]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.48.14:760][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.07.16-05.48.14:760][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.07.16-05.48.14:761][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_0
+[2022.07.16-05.48.14:761][165]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_0
+[2022.07.16-05.48.35:567][632]Cmd: TRANSACTION UNDO
+[2022.07.16-05.48.35:567][632]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.49.00:848][ 21]Cmd: EDIT COPY
+[2022.07.16-05.49.01:048][ 45]Cmd: EDIT PASTE
+[2022.07.16-05.49.27:178][113]Cmd: TRANSACTION UNDO
+[2022.07.16-05.49.27:178][113]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.49.30:755][426]Cmd: EDIT COPY
+[2022.07.16-05.49.33:733][744]Cmd: EDIT PASTE
+[2022.07.16-05.50.52:041][944]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-05.50.58:888][721]Cmd: SELECT NONE
+[2022.07.16-05.51.36:422][ 34]Cmd: TRANSACTION UNDO
+[2022.07.16-05.51.36:422][ 34]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.51.38:346][210]Cmd: TRANSACTION UNDO
+[2022.07.16-05.51.38:346][210]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-05.51.38:658][243]Cmd: TRANSACTION UNDO
+[2022.07.16-05.51.38:658][243]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.51.38:988][280]Cmd: TRANSACTION UNDO
+[2022.07.16-05.51.38:988][280]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.51.48:100][305]Cmd: TRANSACTION UNDO
+[2022.07.16-05.51.48:100][305]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-05.52.20:528][743]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_4EE26249...
+[2022.07.16-05.52.20:528][743]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_4EE26249.CubeGridToolOutput_4EE26249
+[2022.07.16-05.52.46:140][584]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_4EE26249...
+[2022.07.16-05.52.46:140][584]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_4EE26249.CubeGridToolOutput_4EE26249
+[2022.07.16-05.52.48:477][839]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-05.52.52:487][256]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.52.52:487][256]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.52.52:771][286]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.52.52:771][286]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-05.52.57:657][856]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_4EE26249 -> SM_Arch
+[2022.07.16-05.52.57:715][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Arch" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Arch.uasset" SILENT=true
+[2022.07.16-05.52.57:717][856]LogSavePackage: Moving output files for package: /Game/Models/SM_Arch
+[2022.07.16-05.52.57:717][856]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_ArchA00DE94B48874AA433C04582E2985D34.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Arch.uasset'
+[2022.07.16-05.52.57:738][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.16-05.52.57:747][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.16-05.52.57:753][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.16-05.52.57:755][856]AssetCheck: New page: Asset Save: SM_Arch
+[2022.07.16-05.52.57:755][856]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Arch.SM_Arch
+[2022.07.16-05.53.16:646][904]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Cube.Cube
+[2022.07.16-05.53.16:818][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.16-05.53.17:631][904]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2022.07.16-05.53.19:502][ 40]LogSlate: Window 'Cube' being destroyed
+[2022.07.16-05.53.19:507][ 40]LogSlate: Window 'Cube' being destroyed
+[2022.07.16-05.53.19:565][ 40]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.16-05.53.19:565][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.16-05.54.53:088][959]Cmd: EDIT COPY
+[2022.07.16-05.54.53:295][984]Cmd: EDIT PASTE
+[2022.07.16-05.54.58:009][482]Cmd: EDIT COPY
+[2022.07.16-05.54.58:225][508]Cmd: EDIT PASTE
+[2022.07.16-05.55.04:363][210]Cmd: TRANSACTION UNDO
+[2022.07.16-05.55.04:363][210]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.55.05:241][277]Cmd: TRANSACTION UNDO
+[2022.07.16-05.55.05:241][277]LogEditorTransaction: Undo Pegar
+[2022.07.16-05.55.05:680][322]Cmd: TRANSACTION UNDO
+[2022.07.16-05.55.05:680][322]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.55.09:397][724]Cmd: EDIT COPY
+[2022.07.16-05.55.09:631][738]Cmd: EDIT PASTE
+[2022.07.16-05.55.13:946][220]Cmd: EDIT COPY
+[2022.07.16-05.55.14:161][244]Cmd: EDIT PASTE
+[2022.07.16-05.56.20:805][361]Cmd: TRANSACTION UNDO
+[2022.07.16-05.56.20:805][361]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.56.21:115][374]Cmd: TRANSACTION UNDO
+[2022.07.16-05.56.21:115][374]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.56.21:435][395]Cmd: TRANSACTION UNDO
+[2022.07.16-05.56.21:435][395]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.56.27:093][ 45]LogEditorViewport: Clicking Background
+[2022.07.16-05.56.27:820][130]LogEditorViewport: Clicking Background
+[2022.07.16-05.57.17:203][539]Cmd: TRANSACTION UNDO
+[2022.07.16-05.57.17:203][539]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.57.19:658][789]Cmd: TRANSACTION UNDO
+[2022.07.16-05.57.19:658][789]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.57.39:778][551]Cmd: TRANSACTION UNDO
+[2022.07.16-05.57.39:778][551]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.57.44:277][ 46]Cmd: TRANSACTION UNDO
+[2022.07.16-05.57.44:277][ 46]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.58.02:156][131]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.02:156][131]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.58.02:576][150]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.02:576][150]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.58.02:877][179]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.02:877][179]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.58.03:281][224]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.03:281][224]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-05.58.08:054][786]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.08:054][786]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.58.15:156][595]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.15:156][595]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.58.17:370][822]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.17:370][822]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.58.22:393][416]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.22:393][416]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.58.30:641][327]Cmd: ACTOR BAKEPREPIVOT
+[2022.07.16-05.58.34:039][726]LogEditorViewport: Clicking Background
+[2022.07.16-05.58.49:092][475]Cmd: PIVOT HERE
+[2022.07.16-05.58.51:832][801]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.51:832][801]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-05.58.55:923][245]Cmd: TRANSACTION UNDO
+[2022.07.16-05.58.55:923][245]LogEditorTransaction: Undo Move Elements
+[2022.07.16-05.59.02:949][ 14]Cmd: ACTOR BAKEPREPIVOT
+[2022.07.16-05.59.29:197][952]LogEditorViewport: Clicking Background
+[2022.07.16-05.59.32:922][383]LogEditorViewport: Clicking Background
+[2022.07.16-05.59.33:810][488]LogEditorViewport: Clicking Background
+[2022.07.16-05.59.56:454][528]Cmd: TRANSACTION UNDO
+[2022.07.16-05.59.56:454][528]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.00.41:056][720]Cmd: EDIT COPY
+[2022.07.16-06.00.41:356][756]Cmd: EDIT PASTE
+[2022.07.16-06.00.44:564][129]Cmd: TRANSACTION UNDO
+[2022.07.16-06.00.44:564][129]LogEditorTransaction: Undo Pegar
+[2022.07.16-06.00.45:856][234]Cmd: EDIT COPY
+[2022.07.16-06.00.46:069][257]Cmd: EDIT PASTE
+[2022.07.16-06.01.21:875][328]Cmd: MODE GRID=0
+[2022.07.16-06.01.29:395][152]Cmd: EDIT COPY
+[2022.07.16-06.01.30:436][277]Cmd: EDIT PASTE
+[2022.07.16-06.01.32:566][524]Cmd: TRANSACTION UNDO
+[2022.07.16-06.01.32:566][524]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.01.40:849][445]Cmd: TRANSACTION UNDO
+[2022.07.16-06.01.40:849][445]LogEditorTransaction: Undo Set Item Visibility
+[2022.07.16-06.01.41:132][458]Cmd: TRANSACTION UNDO
+[2022.07.16-06.01.41:132][458]LogEditorTransaction: Undo Set Item Visibility
+[2022.07.16-06.01.42:056][548]Cmd: TRANSACTION UNDO
+[2022.07.16-06.01.42:056][548]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.02.03:802][ 99]Cmd: DELETE
+[2022.07.16-06.02.03:802][ 99]Cmd: ACTOR DELETE
+[2022.07.16-06.02.03:804][ 99]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-06.02.03:831][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.16-06.02.03:834][ 99]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.07.16-06.02.11:663][ 34]Cmd: DELETE
+[2022.07.16-06.02.11:663][ 34]Cmd: ACTOR DELETE
+[2022.07.16-06.02.11:664][ 34]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-06.02.11:670][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.16-06.02.11:672][ 34]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.07.16-06.02.12:819][161]Cmd: EDIT COPY
+[2022.07.16-06.02.13:024][184]Cmd: EDIT PASTE
+[2022.07.16-06.03.19:482][567]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-06.04.05:439][837]Cmd: EDCALLBACK SELECTEDPROPS
+[2022.07.16-06.04.06:299][940]Cmd: EDCALLBACK SELECTEDPROPS
+[2022.07.16-06.04.33:762][134]Cmd: SELECT NONE
+[2022.07.16-06.04.58:056][817]Cmd: TRANSACTION UNDO
+[2022.07.16-06.04.58:056][817]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.06.08:125][464]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (THX Spatial - Synapse), InstanceID=1
+[2022.07.16-06.06.08:125][464]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20684
+[2022.07.16-06.06.08:434][464]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{e6a0ca5e-12cd-4e2d-80eb-2a3b2549b315}, Name=Altavoces (THX Spatial - Synapse)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.82
+[2022.07.16-06.06.08:434][464]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.07.16-06.06.08:440][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.07.16-06.08.19:651][303]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.19:651][303]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.08.20:173][321]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.20:173][321]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.08.20:418][343]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.20:418][343]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.08.20:649][364]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.20:649][364]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.08.20:859][387]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.20:859][387]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.08.21:096][413]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.21:096][413]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.08.21:339][440]Cmd: TRANSACTION UNDO
+[2022.07.16-06.08.21:339][440]LogEditorTransaction: Undo Cube Grid Selection Change
+[2022.07.16-06.09.38:485][824]LogDerivedDataCache: C:/Users/Equipo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-06.09.45:783][653]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_75D0F0DD...
+[2022.07.16-06.09.45:783][653]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_75D0F0DD.CubeGridToolOutput_75D0F0DD
+[2022.07.16-06.10.08:043][152]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.10.08:043][152]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.10.09:016][253]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.10.09:016][253]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.10.17:675][254]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_75D0F0DD -> SM_Banner_Open
+[2022.07.16-06.10.17:735][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Banner_Open" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Open.uasset" SILENT=true
+[2022.07.16-06.10.17:737][254]LogSavePackage: Moving output files for package: /Game/Models/SM_Banner_Open
+[2022.07.16-06.10.17:737][254]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Banner_OpenF480ABFE425100D30D110AB04C08E2C7.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Open.uasset'
+[2022.07.16-06.10.17:756][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.16-06.10.17:765][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.16-06.10.17:771][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.07.16-06.10.17:773][254]AssetCheck: New page: Asset Save: SM_Banner_Open
+[2022.07.16-06.10.17:773][254]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Banner_Open.SM_Banner_Open
+[2022.07.16-06.11.01:823][894]LogContentBrowser: Deferred new asset file creation: SM_Banner_Open1
+[2022.07.16-06.11.01:834][894]LogContentBrowser: Creating deferred item: SM_Banner_Open1
+[2022.07.16-06.11.01:844][895]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Banner_Open1).
+[2022.07.16-06.11.02:939][ 27]LogContentBrowser: Attempting asset rename: SM_Banner_Open1 -> SM_Banner_Open1
+[2022.07.16-06.11.02:950][ 27]LogContentBrowser: End creating deferred item SM_Banner_Open1
+[2022.07.16-06.11.09:946][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.07.16-06.11.11:051][752]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.16-06.11.11:062][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.16-06.11.11:069][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.07.16-06.11.11:075][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.16-06.11.11:976][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.11.11:976][838]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.11.11:976][838]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1 as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_19
+[2022.07.16-06.11.14:507][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.11.14:508][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.11.14:508][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1 as actor: StaticMeshActor /Temp/Untitled_3.Untitled_3:PersistentLevel.StaticMeshActor_20
+[2022.07.16-06.12.36:876][928]Cmd: TRANSACTION UNDO
+[2022.07.16-06.12.36:876][928]LogEditorTransaction: Undo Cube Grid Mode Change
+[2022.07.16-06.13.00:109][326]LogStaticMesh: Display: Generando la malla estática SM_Banner_Open1...
+[2022.07.16-06.13.00:109][326]LogStaticMesh: Built static mesh [0.00s] /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.13.09:591][315]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.13.09:591][315]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.13.13:593][761]LogContentBrowser: Attempting asset rename: SM_Banner_Open1 -> SM_Banner_Closed
+[2022.07.16-06.13.13:640][761]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Banner_Closed" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Closed.uasset" SILENT=true
+[2022.07.16-06.13.13:642][761]LogSavePackage: Moving output files for package: /Game/Models/SM_Banner_Closed
+[2022.07.16-06.13.13:642][761]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Banner_Closed7F7501574C4155E713102ABCB12951DC.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Closed.uasset'
+[2022.07.16-06.13.13:658][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.16-06.13.13:666][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.16-06.13.13:672][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.07.16-06.13.13:674][761]AssetCheck: New page: Asset Save: SM_Banner_Closed
+[2022.07.16-06.13.13:674][761]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Banner_Closed.SM_Banner_Closed
+[2022.07.16-06.14.17:660][734]LogStaticMesh: Display: Generando la malla estática SM_Banner_Closed...
+[2022.07.16-06.14.17:660][734]LogStaticMesh: Built static mesh [0.00s] /Game/Models/SM_Banner_Closed.SM_Banner_Closed
+[2022.07.16-06.15.15:010][984]LogStaticMesh: Display: Generando la malla estática SM_Banner_Open...
+[2022.07.16-06.15.15:010][984]LogStaticMesh: Built static mesh [0.00s] /Game/Models/SM_Banner_Open.SM_Banner_Open
+[2022.07.16-06.16.07:729][746]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-06.16.31:257][393]Cmd: TRANSACTION UNDO
+[2022.07.16-06.16.31:257][393]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.16.31:870][428]Cmd: MODE GRID=1
+[2022.07.16-06.17.08:005][596]Cmd: MODE GRID=0
+[2022.07.16-06.17.45:636][959]Cmd: EDIT COPY
+[2022.07.16-06.17.45:858][982]Cmd: EDIT PASTE
+[2022.07.16-06.18.41:257][489]Cmd: DELETE
+[2022.07.16-06.18.41:257][489]Cmd: ACTOR DELETE
+[2022.07.16-06.18.41:259][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.16-06.18.41:270][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.16-06.18.41:273][489]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2022.07.16-06.18.47:674][178]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.47:674][178]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.18.48:020][190]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.48:020][190]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.18.48:292][206]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.48:292][206]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.18.48:520][233]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.48:520][233]LogEditorTransaction: Undo Delete Elements
+[2022.07.16-06.18.48:744][255]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.48:744][255]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.48:940][277]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.48:941][277]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.49:140][299]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.49:140][299]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.49:328][320]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.49:328][320]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.49:509][340]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.49:509][340]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.49:697][361]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.49:697][361]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.18.49:875][381]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.49:875][381]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.18.50:063][402]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.50:063][402]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.18.50:256][423]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.50:256][423]LogEditorTransaction: Undo Pegar
+[2022.07.16-06.18.50:440][440]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.50:440][440]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.18.50:646][459]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.50:646][459]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.18.50:857][479]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.50:857][479]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.51:071][503]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.51:071][503]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.51:286][527]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.51:286][527]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.51:495][550]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.51:495][550]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.51:694][572]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.51:694][572]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.51:892][594]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.51:892][594]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.52:096][617]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.52:097][617]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.52:316][641]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.52:316][641]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.52:544][666]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.52:544][666]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.52:767][691]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.52:767][691]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.52:979][715]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.52:979][715]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.53:315][753]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.53:315][753]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.53:673][791]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.53:673][791]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.18.53:989][826]Cmd: TRANSACTION UNDO
+[2022.07.16-06.18.53:989][826]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.19.04:760][ 90]Cmd: EDIT COPY
+[2022.07.16-06.19.05:019][121]Cmd: EDIT PASTE
+[2022.07.16-06.19.19:400][804]Cmd: TRANSACTION UNDO
+[2022.07.16-06.19.19:400][804]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.19.22:078][ 65]Cmd: MODE GRID=1
+[2022.07.16-06.19.46:635][857]Cmd: MODE GRID=0
+[2022.07.16-06.20.14:726][149]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.14:726][149]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.15:103][161]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.15:103][161]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.15:393][177]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.15:393][177]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.15:666][208]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.15:666][208]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.15:925][237]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.15:925][237]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.16:257][274]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.16:257][274]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.20.16:589][311]Cmd: TRANSACTION UNDO
+[2022.07.16-06.20.16:589][311]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.20.20:201][683]Cmd: MODE GRID=1
+[2022.07.16-06.20.57:467][ 64]Cmd: MODE GRID=0
+[2022.07.16-06.22.10:139][486]Cmd: TRANSACTION UNDO
+[2022.07.16-06.22.10:139][486]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.22.10:687][508]Cmd: TRANSACTION UNDO
+[2022.07.16-06.22.10:687][508]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.22.11:066][549]Cmd: TRANSACTION UNDO
+[2022.07.16-06.22.11:067][549]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.22.11:450][590]Cmd: TRANSACTION UNDO
+[2022.07.16-06.22.11:450][590]LogEditorTransaction: Undo Rotate Elements
+[2022.07.16-06.23.28:590][659]Cmd: TRANSACTION UNDO
+[2022.07.16-06.23.28:590][659]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.23.28:875][672]Cmd: TRANSACTION UNDO
+[2022.07.16-06.23.28:875][672]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.24.21:551][717]Cmd: EDIT COPY
+[2022.07.16-06.24.21:843][752]Cmd: EDIT PASTE
+[2022.07.16-06.24.23:634][942]Cmd: TRANSACTION UNDO
+[2022.07.16-06.24.23:634][942]LogEditorTransaction: Undo Pegar
+[2022.07.16-06.24.53:882][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.16-06.24.53:885][654]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_3' took 0.010
+[2022.07.16-06.24.53:885][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/SM_Banner_Open] ([1] browsable assets)...
+[2022.07.16-06.24.53:966][654]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/SM_Banner_Open.SM_Banner_Open]
+[2022.07.16-06.24.53:966][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Banner_Open]
+[2022.07.16-06.24.53:968][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Banner_Open_Auto2
+[2022.07.16-06.24.53:968][654]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Banner_Open_Auto278039AB243C0CF4B55CDFC9C8B56C5D4.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Autosaves/Game/Models/SM_Banner_Open_Auto2.uasset'
+[2022.07.16-06.24.53:968][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/SM_Banner_Closed] ([1] browsable assets)...
+[2022.07.16-06.24.53:991][654]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/SM_Banner_Closed.SM_Banner_Closed]
+[2022.07.16-06.24.53:991][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/SM_Banner_Closed]
+[2022.07.16-06.24.54:004][654]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/SM_Banner_Closed_Auto2
+[2022.07.16-06.24.54:004][654]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Banner_Closed_Auto232CA7B1C4BC607CB7C32C584CBA7B7AC.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Autosaves/Game/Models/SM_Banner_Closed_Auto2.uasset'
+[2022.07.16-06.24.54:005][654]LogFileHelpers: Auto-saving content packages took 0.120
+[2022.07.16-06.25.37:342][191]Cmd: MODE GRID=1
+[2022.07.16-06.27.07:051][335]Cmd: ACTOR BAKEPREPIVOT
+[2022.07.16-06.27.41:243][247]Cmd: MODE GRID=0
+[2022.07.16-06.27.57:416][843]LogSlate: Window 'Guardar nivel como' being destroyed
+[2022.07.16-06.28.39:002][816]LogSlate: Window 'Guardar nivel como' being destroyed
+[2022.07.16-06.28.39:060][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Shopping" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.16-06.28.39:069][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.07.16-06.28.39:082][816]LogSavePackage: Moving output files for package: /Game/Levels/Shopping
+[2022.07.16-06.28.39:082][816]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Shopping5D7126AD4006E9AA64FC769ADD2D1130.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap'
+[2022.07.16-06.28.39:109][816]Message dialog closed, result: Ok, title: ¡Imposible salir del control del código fuente!, text: Los siguientes activos no se han revisado correctamente en el control del código fuente: 
+/Game/Levels/Shopping_BuiltData
+[2022.07.16-06.28.39:109][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Shopping_BuiltData" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping_BuiltData.uasset" SILENT=true
+[2022.07.16-06.28.39:144][816]LogSavePackage: Moving output files for package: /Game/Levels/Shopping_BuiltData
+[2022.07.16-06.28.39:144][816]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Shopping_BuiltData025492114114EADA4A1C6BBD196319CC.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping_BuiltData.uasset'
+[2022.07.16-06.28.39:145][816]Message dialog closed, result: Ok, title: ¡Imposible salir del control del código fuente!, text: Los siguientes activos no se han revisado correctamente en el control del código fuente: 
+/Game/Levels/Shopping_BuiltData
+[2022.07.16-06.28.39:150][816]LogFileHelpers: Saving map 'Shopping' took 0.144
+[2022.07.16-06.28.39:153][816]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.16-06.28.39:153][816]LogContentValidation: Display: Validating World /Game/Levels/Shopping.Shopping
+[2022.07.16-06.28.39:153][816]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Shopping_BuiltData.Shopping_BuiltData
+[2022.07.16-06.28.43:900][310]Cmd: EDIT COPY
+[2022.07.16-06.28.44:150][340]Cmd: EDIT PASTE
+[2022.07.16-06.28.47:653][743]Cmd: TRANSACTION UNDO
+[2022.07.16-06.28.47:653][743]LogEditorTransaction: Undo Pegar
+[2022.07.16-06.28.56:066][596]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.28.56:066][596]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.28.56:963][691]LogContentBrowser: Deferred new asset file creation: SM_Banner_Open1
+[2022.07.16-06.28.56:970][691]LogContentBrowser: Creating deferred item: SM_Banner_Open1
+[2022.07.16-06.28.56:980][692]LogContentBrowser: Renaming the item being created (Deferred Item: SM_Banner_Open1).
+[2022.07.16-06.28.57:815][793]LogContentBrowser: Attempting asset rename: SM_Banner_Open1 -> SM_Banner_Open1
+[2022.07.16-06.28.57:817][793]LogContentBrowser: End creating deferred item SM_Banner_Open1
+[2022.07.16-06.28.58:479][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.28.58:479][854]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.28.58:480][854]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1 as actor: StaticMeshActor /Game/Levels/Shopping.Shopping:PersistentLevel.StaticMeshActor_25
+[2022.07.16-06.28.58:857][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.28.58:857][895]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1
+[2022.07.16-06.28.58:858][895]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/SM_Banner_Open1.SM_Banner_Open1 as actor: StaticMeshActor /Game/Levels/Shopping.Shopping:PersistentLevel.StaticMeshActor_26
+[2022.07.16-06.29.01:560][173]Cmd: TRANSACTION UNDO
+[2022.07.16-06.29.01:560][173]LogEditorTransaction: Undo Crear actores
+[2022.07.16-06.29.34:001][807]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.07.16-06.29.35:631][993]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-06.29.38:981][377]Cmd: SELECT NONE
+[2022.07.16-06.29.56:483][463]Cmd: TRANSACTION UNDO
+[2022.07.16-06.29.56:483][463]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.29.56:746][471]Cmd: TRANSACTION UNDO
+[2022.07.16-06.29.56:746][471]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.30.16:407][599]Cmd: TRANSACTION UNDO
+[2022.07.16-06.30.16:407][599]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.31.09:198][556]Cmd: TRANSACTION UNDO
+[2022.07.16-06.31.09:198][556]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.31.27:652][707]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_193F5C52...
+[2022.07.16-06.31.27:652][707]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_193F5C52.CubeGridToolOutput_193F5C52
+[2022.07.16-06.32.45:821][454]EditorErrors: New page: Actor attachment
+[2022.07.16-06.32.54:837][453]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_193F5C52...
+[2022.07.16-06.32.54:837][453]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_193F5C52.CubeGridToolOutput_193F5C52
+[2022.07.16-06.32.56:843][679]Cmd: SELECT NONE
+[2022.07.16-06.32.57:782][789]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-06.33.18:356][533]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.18:356][533]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.28:201][699]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_193F5C52 -> CubeGridToolOutput_193F5C52
+[2022.07.16-06.33.40:355][930]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.40:355][930]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.40:795][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.07.16-06.33.43:466][974]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.16-06.33.43:477][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.16-06.33.43:483][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.16-06.33.43:489][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.16-06.33.46:267][238]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.46:267][238]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.46:870][302]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.46:870][302]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.47:769][394]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.47:769][394]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.50:436][661]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.50:436][661]LogSlateStyle: Warning: No pudo encontrar el estilo del widget del cuadro 'Window.Buttons.Close'. Utilizando FButtonStyle predeterminado en su lugar.
+[2022.07.16-06.33.58:658][609]LogContentBrowser: Attempting asset rename: CubeGridToolOutput_193F5C52 -> SM_Banner_Center
+[2022.07.16-06.33.58:714][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/SM_Banner_Center" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Center.uasset" SILENT=true
+[2022.07.16-06.33.58:716][609]LogSavePackage: Moving output files for package: /Game/Models/SM_Banner_Center
+[2022.07.16-06.33.58:716][609]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/SM_Banner_Center2B3D7EAC45CED6274E9EA991E79413A7.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Models/SM_Banner_Center.uasset'
+[2022.07.16-06.33.58:731][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.16-06.33.58:738][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.16-06.33.58:745][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.07.16-06.33.58:747][609]AssetCheck: New page: Asset Save: SM_Banner_Center
+[2022.07.16-06.33.58:747][609]LogContentValidation: Display: Validating StaticMesh /Game/Models/SM_Banner_Center.SM_Banner_Center
+[2022.07.16-06.34.24:086][230]Cmd: TRANSACTION UNDO
+[2022.07.16-06.34.24:086][230]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.34.25:066][305]Cmd: MODE GRID=1
+[2022.07.16-06.34.37:989][733]Cmd: MODE GRID=0
+[2022.07.16-06.36.30:628][481]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-06.36.43:587][971]Cmd: TRANSACTION UNDO
+[2022.07.16-06.36.43:587][971]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.36.50:522][589]LogStaticMesh: Display: Generando la malla estática SM_Banner_Center...
+[2022.07.16-06.36.50:522][589]LogStaticMesh: Built static mesh [0.00s] /Game/Models/SM_Banner_Center.SM_Banner_Center
+[2022.07.16-06.39.09:781][554]Cmd: TRANSACTION UNDO
+[2022.07.16-06.39.09:781][554]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.39.25:525][300]Cmd: TRANSACTION UNDO
+[2022.07.16-06.39.25:525][300]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.39.25:806][313]Cmd: TRANSACTION UNDO
+[2022.07.16-06.39.25:806][313]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.39.26:055][324]Cmd: TRANSACTION UNDO
+[2022.07.16-06.39.26:055][324]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.39.46:528][558]LogStaticMesh: Display: Generando la malla estática SM_Banner_Center...
+[2022.07.16-06.39.46:528][558]LogStaticMesh: Built static mesh [0.00s] /Game/Models/SM_Banner_Center.SM_Banner_Center
+[2022.07.16-06.40.00:678][159]Cmd: EDIT COPY
+[2022.07.16-06.40.00:912][187]Cmd: EDIT PASTE
+[2022.07.16-06.40.20:577][378]LogViewport: Scene viewport resized to 2038x1262, mode Windowed.
+[2022.07.16-06.40.28:850][350]Cmd: TRANSACTION UNDO
+[2022.07.16-06.40.28:850][350]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.40.29:501][390]Cmd: MODE GRID=1
+[2022.07.16-06.40.43:136][999]Cmd: ACTOR BAKEPREPIVOT
+[2022.07.16-06.40.54:463][310]Cmd: MODE GRID=0
+[2022.07.16-06.41.05:825][591]Cmd: TRANSACTION UNDO
+[2022.07.16-06.41.05:825][591]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.41.20:694][267]Cmd: TRANSACTION UNDO
+[2022.07.16-06.41.20:694][267]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.41.27:841][ 65]Cmd: TRANSACTION UNDO
+[2022.07.16-06.41.27:841][ 65]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.41.32:790][554]Cmd: TRANSACTION UNDO
+[2022.07.16-06.41.32:790][554]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.16-06.41.33:373][583]Cmd: TRANSACTION UNDO
+[2022.07.16-06.41.33:373][583]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.41.36:373][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Shopping" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.16-06.41.36:381][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.07.16-06.41.36:399][901]LogSavePackage: Moving output files for package: /Game/Levels/Shopping
+[2022.07.16-06.41.36:399][901]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Shopping691CCA8F4792A11AA5B3139B7CFB57A0.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap'
+[2022.07.16-06.41.36:406][901]LogFileHelpers: ¡No hay cambios que guardar!
+[2022.07.16-06.41.36:422][901]AssetCheck: New page: Asset Save: Shopping
+[2022.07.16-06.41.36:422][901]LogContentValidation: Display: Validating World /Game/Levels/Shopping.Shopping
+[2022.07.16-06.42.05:496][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Shopping" FILE="../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.16-06.42.05:502][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.16-06.42.05:509][311]LogSavePackage: Moving output files for package: /Game/Levels/Shopping
+[2022.07.16-06.42.05:509][311]LogSavePackage: Moving '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Saved/Shopping119929AC40CE15912DBA19BC4352D784.tmp' to '../../../../../../ImageCampus/Game/Project/Arcade_Pandemonium/Content/Levels/Shopping.umap'
+[2022.07.16-06.42.05:516][311]LogFileHelpers: ¡No hay cambios que guardar!
+[2022.07.16-06.42.05:530][311]AssetCheck: New page: Asset Save: Shopping
+[2022.07.16-06.42.05:530][311]LogContentValidation: Display: Validating World /Game/Levels/Shopping.Shopping
+[2022.07.16-06.42.43:542][946]LogViewport: Scene viewport resized to 1564x1262, mode Windowed.
+[2022.07.16-06.42.45:479][176]Cmd: SELECT NONE
+[2022.07.16-06.42.47:392][401]LogViewport: Scene viewport resized to 1398x1262, mode Windowed.
+[2022.07.16-06.43.18:816][ 80]Cmd: TRANSACTION UNDO
+[2022.07.16-06.43.18:816][ 80]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.43.19:977][181]Cmd: TRANSACTION UNDO
+[2022.07.16-06.43.19:977][181]LogEditorTransaction: Undo Block Tool Change
+[2022.07.16-06.43.52:402][889]Cmd: TRANSACTION UNDO
+[2022.07.16-06.43.52:402][889]LogEditorTransaction: Undo Cube Grid Mode Change
+[2022.07.16-06.44.02:812][ 26]LogStaticMesh: Display: Generando la malla estática CubeGridToolOutput_375557F2...
+[2022.07.16-06.44.02:812][ 26]LogStaticMesh: Built static mesh [0.00s] /Game/Models/CubeGridToolOutput_375557F2.CubeGridToolOutput_375557F2
+[2022.07.16-06.44.13:720][260]Cmd: MODE GRID=1
+[2022.07.16-06.44.58:093][499]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.58:093][499]LogEditorTransaction: Undo Set Location
+[2022.07.16-06.44.58:459][511]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.58:459][511]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.44.58:682][519]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.58:682][519]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.44.58:928][543]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.58:928][543]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.44.59:210][573]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.59:210][573]LogEditorTransaction: Undo Move Elements
+[2022.07.16-06.44.59:456][598]Cmd: TRANSACTION UNDO
+[2022.07.16-06.44.59:456][598]LogEditorTransaction: Undo Block Tool Create New
+[2022.07.16-06.45.07:994][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.16-06.45.08:921][548]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.16-06.45.08:931][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.16-06.45.08:937][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.16-06.45.08:943][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.07.16-06.45.10:862][763]Cmd: SELECT NONE
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Status: PageFault
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Failed to get Aftermath stack data
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Faulting address: 0x0000000338af0000
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Faulting resource dims: 2040 x 1264 x 1
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Faulting result size: 10485760 bytes
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Faulting resource mips: 1
+[2022.07.16-06.46.25:475][488]LogRHI: Error: [Aftermath] Faulting resource format: R10G10B10A2_UNORM (0x18)
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: PageFault at VA GPUAddress "0x338AF0000"
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: Last completed frame ID: -1 (cached: -1) - Current frame ID: 565113
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: Logging all resource enabled: No
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: Found 0 active tracked resources in 16.00 MB range of page fault address
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: Found 0 active heaps containing page fault address
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: PageFault: Found 0 released resources containing the page fault address during last 100 frames
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: [GPUBreadCrumb] Last tracked GPU operations:
+[2022.07.16-06.46.25:475][488]LogD3D12RHI: Error: [GPUBreadCrumb]	3D Queue 0 - Begin: Frame 562485 - Scene - GPUScene.UploadDynamicPrimitiveShaderDataForView - Uploads - UpdateGPUScene NumPrimitiveDataUploads 6
+[2022.07.16-06.46.25:503][488]LogD3D12RHI: Error: [GPUBreadCrumb]	Compute Queue 0 - No Data
+[2022.07.16-06.46.25:528][488]LogD3D12RHI: Error: [GPUBreadCrumb]	Copy Queue 0 - No Data
+[2022.07.16-06.46.25:553][488]LogD3D12RHI: Error: DRED: No breadcrumb head found.
+[2022.07.16-06.46.25:553][488]LogD3D12RHI: Error: DRED: No PageFault data.
+[2022.07.16-06.46.25:553][488]LogD3D12RHI: Error: Memory Info from frame ID 565113:
+[2022.07.16-06.46.25:553][488]LogD3D12RHI: Error: 	Budget:	9310.00 MB
+[2022.07.16-06.46.25:553][488]LogD3D12RHI: Error: 	Used:	2198.89 MB
+[2022.07.16-06.46.29:258][488]LogWindows: Error: Error reentered: Fatal error: [File:D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12Util.cpp] [Line: 859] 
+pResource->Map(Subresource, pReadRange, reinterpret_cast<void**>(&pData)) failed 
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\D3D12RHI\Private\D3D12RHIPrivate.h:1387 
+ with error DXGI_ERROR_DEVICE_REMOVED with Reason: DXGI_ERROR_DEVICE_HUNG
+
+
+
+
