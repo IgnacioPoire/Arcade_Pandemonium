@@ -12951,11 +12951,11 @@ FLWCVector3Deriv ConstructFLWCVector3Deriv(FLWCVector3 InValue,float3 InDdx,floa
 
 float4  CustomExpression0(FMaterialVertexParameters Parameters,float3 In, FLWCVector3 LWCIn)
 {
-return mul(float4(In.xyz,1),View.WorldToClip);
+return mul(float4(In.xyz,1),LWCToFloat(ResolvedView.WorldToClip));
 }
 
 
-float4  CustomExpression1(FMaterialVertexParameters Parameters, float3  In)
+float4  CustomExpression1(FMaterialVertexParameters Parameters, float2  In)
 {
 return mul(float4(In.xyz,1),View_ClipToTranslatedWorld);
 }
@@ -12963,11 +12963,11 @@ return mul(float4(In.xyz,1),View_ClipToTranslatedWorld);
 
 float4  CustomExpression2(FMaterialVertexParameters Parameters,float3 In, FLWCVector3 LWCIn)
 {
-return mul(float4(In.xyz,1),View.WorldToClip);
+return mul(float4(In.xyz,1),LWCToFloat(ResolvedView.WorldToClip));
 }
 
 
-float4  CustomExpression3(FMaterialVertexParameters Parameters, float3  In)
+float4  CustomExpression3(FMaterialVertexParameters Parameters, float2  In)
 {
 return mul(float4(In.xyz,1),View_ClipToTranslatedWorld);
 }
@@ -13186,22 +13186,24 @@ precise float3  GetMaterialWorldPositionOffset(FMaterialVertexParameters Paramet
 	float2  Local19 = (Local18 /  float2 (160.00000000,120.00000000));
 	float2  Local20 = (Local19 * (( float2 )Local15.a));
 	float2  Local21 = (Local20 - Local15.rg);
-	float4  Local22 = CustomExpression1(Parameters, float3 (Local21,Material_PreshaderBuffer[2].w));
-	FLWCVector3 Local23 = GetPrevWorldPosition(Parameters);
-	float4  Local24 = CustomExpression2(Parameters,LWCToFloat( Local23 ), Local23 );
-	float2  Local25 = (Local24.rg / (( float2 )Local24.a));
-	float2  Local26 = (Local25 *  float2 (160.00000000,120.00000000));
-	float2  Local27 = floor(Local26);
-	float2  Local28 = (Local27 /  float2 (160.00000000,120.00000000));
-	float2  Local29 = (Local28 * (( float2 )Local24.a));
-	float2  Local30 = (Local29 - Local24.rg);
-	float4  Local31 = CustomExpression3(Parameters, float3 (Local30,Material_PreshaderBuffer[2].w));
-	return Local22.xyz;;
+	float4  Local22 = CustomExpression1(Parameters,Local21);
+	float4  Local23 = (Local22 * (( float4 )Material_PreshaderBuffer[2].w));
+	FLWCVector3 Local24 = GetPrevWorldPosition(Parameters);
+	float4  Local25 = CustomExpression2(Parameters,LWCToFloat( Local24 ), Local24 );
+	float2  Local26 = (Local25.rg / (( float2 )Local25.a));
+	float2  Local27 = (Local26 *  float2 (160.00000000,120.00000000));
+	float2  Local28 = floor(Local27);
+	float2  Local29 = (Local28 /  float2 (160.00000000,120.00000000));
+	float2  Local30 = (Local29 * (( float2 )Local25.a));
+	float2  Local31 = (Local30 - Local25.rg);
+	float4  Local32 = CustomExpression3(Parameters,Local31);
+	float4  Local33 = (Local32 * (( float4 )Material_PreshaderBuffer[2].w));
+	return Local23.xyz;;
 }
 
 precise float3  GetMaterialPreviousWorldPositionOffset(FMaterialVertexParameters Parameters)
 {
-#line 2827 "/Engine/Generated/Material.ush"
+#line 2829 "/Engine/Generated/Material.ush"
 	FLWCVector3 Local14 = GetWorldPosition(Parameters);
 	float4  Local15 = CustomExpression0(Parameters,LWCToFloat( Local14 ), Local14 );
 	float2  Local16 = (Local15.rg / (( float2 )Local15.a));
@@ -13210,17 +13212,19 @@ precise float3  GetMaterialPreviousWorldPositionOffset(FMaterialVertexParameters
 	float2  Local19 = (Local18 /  float2 (160.00000000,120.00000000));
 	float2  Local20 = (Local19 * (( float2 )Local15.a));
 	float2  Local21 = (Local20 - Local15.rg);
-	float4  Local22 = CustomExpression1(Parameters, float3 (Local21,Material_PreshaderBuffer[2].w));
-	FLWCVector3 Local23 = GetPrevWorldPosition(Parameters);
-	float4  Local24 = CustomExpression2(Parameters,LWCToFloat( Local23 ), Local23 );
-	float2  Local25 = (Local24.rg / (( float2 )Local24.a));
-	float2  Local26 = (Local25 *  float2 (160.00000000,120.00000000));
-	float2  Local27 = floor(Local26);
-	float2  Local28 = (Local27 /  float2 (160.00000000,120.00000000));
-	float2  Local29 = (Local28 * (( float2 )Local24.a));
-	float2  Local30 = (Local29 - Local24.rg);
-	float4  Local31 = CustomExpression3(Parameters, float3 (Local30,Material_PreshaderBuffer[2].w));
-	return Local31.xyz;;
+	float4  Local22 = CustomExpression1(Parameters,Local21);
+	float4  Local23 = (Local22 * (( float4 )Material_PreshaderBuffer[2].w));
+	FLWCVector3 Local24 = GetPrevWorldPosition(Parameters);
+	float4  Local25 = CustomExpression2(Parameters,LWCToFloat( Local24 ), Local24 );
+	float2  Local26 = (Local25.rg / (( float2 )Local25.a));
+	float2  Local27 = (Local26 *  float2 (160.00000000,120.00000000));
+	float2  Local28 = floor(Local27);
+	float2  Local29 = (Local28 /  float2 (160.00000000,120.00000000));
+	float2  Local30 = (Local29 * (( float2 )Local25.a));
+	float2  Local31 = (Local30 - Local25.rg);
+	float4  Local32 = CustomExpression3(Parameters,Local31);
+	float4  Local33 = (Local32 * (( float4 )Material_PreshaderBuffer[2].w));
+	return Local33.xyz;;
 }
 
 
@@ -13280,7 +13284,7 @@ float GetMaterialPixelDepthOffset(FPixelMaterialInputs PixelMaterialInputs)
 {
 	return PixelMaterialInputs.PixelDepthOffset;
 }
-#line 2923 "/Engine/Generated/Material.ush"
+#line 2927 "/Engine/Generated/Material.ush"
 float3 TransformTangentNormalToWorld( float3x3  TangentToWorld, float3 TangentNormal)
 {
 	return normalize(float3(TransformTangentVectorToWorld(TangentToWorld, TangentNormal)));
@@ -13291,9 +13295,9 @@ float3 TransformTangentNormalToWorld( float3x3  TangentToWorld, float3 TangentNo
 float3 CalculateAnisotropyTangent(in out FMaterialPixelParameters Parameters, FPixelMaterialInputs PixelMaterialInputs)
 {
 	float3 Normal = Parameters.WorldNormal;
-#line 2941 "/Engine/Generated/Material.ush"
+#line 2945 "/Engine/Generated/Material.ush"
 	float3 Tangent = GetMaterialTangent(PixelMaterialInputs);
-#line 2948 "/Engine/Generated/Material.ush"
+#line 2952 "/Engine/Generated/Material.ush"
 	Tangent = TransformTangentNormalToWorld(Parameters.TangentToWorld, Tangent);
 
 
@@ -13365,16 +13369,16 @@ void CalcPixelMaterialInputs(in out FMaterialPixelParameters Parameters, in out 
 
 
 	PixelMaterialInputs.Normal =  float3 (0.00000000,0.00000000,1.00000000);
-#line 3026 "/Engine/Generated/Material.ush"
+#line 3030 "/Engine/Generated/Material.ush"
 	float3 MaterialNormal = GetMaterialNormal(Parameters, PixelMaterialInputs);
-#line 3035 "/Engine/Generated/Material.ush"
+#line 3039 "/Engine/Generated/Material.ush"
 	MaterialNormal = normalize(MaterialNormal);
 
 
 
 
 	Parameters.WorldNormal = TransformTangentNormalToWorld(Parameters.TangentToWorld, MaterialNormal);
-#line 3050 "/Engine/Generated/Material.ush"
+#line 3054 "/Engine/Generated/Material.ush"
 	Parameters.WorldNormal *= Parameters.TwoSidedSign;
 
 
